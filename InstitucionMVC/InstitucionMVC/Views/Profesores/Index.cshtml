@@ -1,0 +1,34 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<InstitucionMVC.Models.ProfesoresViewModel>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Profesorados</h1>
+@if (SignInManager.IsSignedIn(User))
+{
+    <p>
+        <a class="btn btn-primary float-end" asp-action="Create">Nuevo Profesorado</a>
+    </p>
+    
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre del Profesor</th>
+            <th>Asignatura Que Imparte</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           <td>@item.Nombre_Profesor</td>
+           <td>@item.Nombre_Asignatura</td>
+        </tr>
+}
+    </tbody>
+</table>

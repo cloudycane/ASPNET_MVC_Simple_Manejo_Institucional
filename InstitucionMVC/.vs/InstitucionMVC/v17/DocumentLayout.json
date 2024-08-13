@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InstitucionMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\views\\profesores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\views\\profesores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\profesoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\profesoresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\data\\migrations\\20240813182900_editedmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\data\\migrations\\20240813182900_editedmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|d:\\institucionmvc\\institucionmvc\\data\\migrations\\20240813192955_pvmseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047796C5-BE41-4AB8-AE70-BA7F2E4451BC}|InstitucionMVC\\InstitucionMVC.csproj|solutionrelative:institucionmvc\\data\\migrations\\20240813192955_pvmseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Asignaturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Views\\Asignaturas\\Index.cshtml",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Asignaturas\\Index.cshtml",
+              "RelativeToolTip": "InstitucionMVC\\Views\\Asignaturas\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T22:07:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Controllers\\ProfesoresController.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "InstitucionMVC\\Controllers\\ProfesoresController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB0AAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:36:31.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Profesores\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Views\\Profesores\\Index.cshtml",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Profesores\\Index.cshtml",
+              "RelativeToolTip": "InstitucionMVC\\Views\\Profesores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:42:21.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfesoresViewModel.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\ProfesoresViewModel.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\ProfesoresViewModel.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\ProfesoresViewModel.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\ProfesoresViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:59:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profesores.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Profesores.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\Profesores.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Profesores.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\Profesores.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:28:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240813192955_PVMSeed.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\Migrations\\20240813192955_PVMSeed.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Data\\Migrations\\20240813192955_PVMSeed.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\Migrations\\20240813192955_PVMSeed.cs",
+              "RelativeToolTip": "InstitucionMVC\\Data\\Migrations\\20240813192955_PVMSeed.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:29:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InstitucionMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:23:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Views\\Estudiantes\\Create.cshtml",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeToolTip": "InstitucionMVC\\Views\\Estudiantes\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T18:30:34.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240813182900_EditedModels.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\Migrations\\20240813182900_EditedModels.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Data\\Migrations\\20240813182900_EditedModels.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Data\\Migrations\\20240813182900_EditedModels.cs",
+              "RelativeToolTip": "InstitucionMVC\\Data\\Migrations\\20240813182900_EditedModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:29:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\Matricula.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Matricula.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:42.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\Estudiante.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Estudiante.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:30.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\Curso.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Curso.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:25.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Asignatura.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Models\\Asignatura.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Models\\Asignatura.cs",
+              "RelativeToolTip": "InstitucionMVC\\Models\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:26:00.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AsignaturasController.cs",
+              "DocumentMoniker": "D:\\InstitucionMVC\\InstitucionMVC\\Controllers\\AsignaturasController.cs",
+              "RelativeDocumentMoniker": "InstitucionMVC\\Controllers\\AsignaturasController.cs",
+              "ToolTip": "D:\\InstitucionMVC\\InstitucionMVC\\Controllers\\AsignaturasController.cs",
+              "RelativeToolTip": "InstitucionMVC\\Controllers\\AsignaturasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:25:56.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

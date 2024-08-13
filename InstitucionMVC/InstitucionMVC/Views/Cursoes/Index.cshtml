@@ -1,0 +1,66 @@
+﻿@model IEnumerable<InstitucionMVC.Models.Curso>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Cursos</h1>
+
+
+<p>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <a class="btn btn-primary float-end" asp-action="Create">Create New</a>
+    }
+
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre_Curso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Matricula_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Asignatura_Id)
+            </th>
+            @if (SignInManager.IsSignedIn(User))
+            {
+                
+                <th> Acción </th>
+            }
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre_Curso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Matricula_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Asignatura_Id)
+            </td>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <td>
+                        <a class="btn btn-secondary mb-1" asp-action="Edit" asp-route-id="@item.CursoId">Edit</a> |
+                        <a class="btn btn-dark mb-1" asp-action="Details" asp-route-id="@item.CursoId">Details</a> |
+                        <a class="btn btn-danger mb-1" asp-action="Delete" asp-route-id="@item.CursoId">Delete</a>
+                    </td>
+                }
+           
+        </tr>
+}
+    </tbody>
+</table>

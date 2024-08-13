@@ -1,0 +1,57 @@
+﻿@model IEnumerable<InstitucionMVC.Models.Estudiante>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Listados de los Estudiantes</h1>
+
+<p>
+    <a class="btn btn-primary float-end" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="col-sm-1">
+            <th class="col-sm-1">
+                @Html.DisplayNameFor(model => model.Nombre) y @Html.DisplayNameFor(model => model.Apellidos)
+            </th>
+            <th class="col-sm-1">
+                @Html.DisplayNameFor(model => model.Edad) |
+                @Html.DisplayNameFor(model => model.Fecha_Nacimiento)
+            </th>
+            <th class="col-sm-1">
+                @Html.DisplayNameFor(model => model.Direccion) |
+                @Html.DisplayNameFor(model => model.Correo_Electronico)
+            </th>
+            <th class="col-sm-1">
+                @Html.DisplayNameFor(model => model.Ultimo_Estudio_Realizado)
+            </th>
+            <th class="col-sm-1">Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre) @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Edad) |
+                @Html.DisplayFor(modelItem => item.Fecha_Nacimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion) |
+                @Html.DisplayFor(modelItem => item.Correo_Electronico)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ultimo_Estudio_Realizado)
+            </td>
+            <td>
+                <a class="btn btn-secondary mb-1" asp-action="Edit" asp-route-id="@item.EstudianteId">Edit</a> <br />
+                <a class="btn btn-dark mb-1" asp-action="Details" asp-route-id="@item.EstudianteId">Details</a> <br />
+                <a class="btn btn-danger mb-1" asp-action="Delete" asp-route-id="@item.EstudianteId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

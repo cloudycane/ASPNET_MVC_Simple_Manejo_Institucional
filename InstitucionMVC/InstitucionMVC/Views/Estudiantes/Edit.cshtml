@@ -1,0 +1,64 @@
+﻿@model InstitucionMVC.Models.Estudiante
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar datos del estudiante</h1>
+
+<hr />
+<center>
+<div class="card-b">
+    <div class="col-md-8">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="EstudianteId" />
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Apellidos" class="control-label"></label>
+                <input asp-for="Apellidos" class="form-control" />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Fecha_Nacimiento" class="control-label"></label>
+                <input asp-for="Fecha_Nacimiento" class="form-control" />
+                <span asp-validation-for="Fecha_Nacimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class ="text-secondary float-start" asp-for="Direccion" class="control-label"></label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Correo_Electronico" class="control-label"></label>
+                <input asp-for="Correo_Electronico" class="form-control" />
+                <span asp-validation-for="Correo_Electronico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="text-secondary float-start" asp-for="Ultimo_Estudio_Realizado" class="control-label"></label>
+                <input asp-for="Ultimo_Estudio_Realizado" class="form-control" />
+                <span asp-validation-for="Ultimo_Estudio_Realizado" class="text-danger"></span>
+            </div>
+            <div class="form-group m-2 float-end">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</center>
+<div>
+    <a class="m-2" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
